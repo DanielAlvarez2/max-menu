@@ -89,5 +89,15 @@ iframe{
         position: relative;
         bottom: 1000px;
     }
+    #right-menu{
+        position: relative;
+        bottom: 1000px;
+    }
+    #pic3{
+        z-index: 10;
+    }
+    .hide{
+        display: none;
+    }
   
 }
