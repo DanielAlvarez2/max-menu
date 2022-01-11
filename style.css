@@ -19,5 +19,13 @@ iframe{
 #menus{
     margin-top: 25px;
     text-align: center;
-    display: block;
+}
+#pic1{
+    display: none;
+}
+
+@media (max-width:1500px){
+    #pic1{
+        display: inline-block;
+    }
 }
