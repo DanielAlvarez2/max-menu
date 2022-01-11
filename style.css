@@ -81,8 +81,8 @@ iframe{
 }
 
 @media (max-width:400px){
-    iframe{
-        margin-top:5px;
+    #center-menu, #right-menu{
+        margin-top:15px;
     }
     .hide{
         display: none;
