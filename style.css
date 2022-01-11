@@ -23,8 +23,7 @@ iframe{
 }
 
 @media screen and (max-width:1500px){
-    #menus{
-        display:flex;
-        flex-wrap: wrap;
+    #menu3{
+        clear:left;
     }
 }
