@@ -9,7 +9,7 @@ iframe{
 }
 .hide{
     display: inline-block;
-    background: green;
+    background: white;
     width: 3px;
     height:990px;
     position:relative;
