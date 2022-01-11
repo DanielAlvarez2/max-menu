@@ -91,7 +91,7 @@ iframe{
     }
     #right-menu{
         position: relative;
-        bottom: 1000px;
+        bottom: 0;
     }
     #pic3{
         z-index: 10;
