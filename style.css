@@ -87,12 +87,12 @@ iframe{
     }
     #center-menu{
         position: relative;
-        top:10px;
+       
         
     }
     #right-menu{
         position: relative;
-        bottom: 0;
+       
     }
     #pic3{
         z-index: 10;
