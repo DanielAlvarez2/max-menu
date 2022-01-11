@@ -41,6 +41,7 @@ iframe{
     position: relative;
     bottom:50px;
     z-index: 10;
+    margin-bottom: -55px;;
 }
 
 @media (max-width:1432px){
@@ -56,12 +57,18 @@ iframe{
     }
     #pic4{
         position: relative;
-        bottom: 320px;
+       
         z-index: 10;
+        
+    }
+    #menus{
+        overflow:hidden;
+        position: relative;
+        height:1700px;
     }
 }
 
-@media (max-width:968px){
+@media (max-width:953px){
     #pic1{
         display: none;
     }
@@ -69,6 +76,7 @@ iframe{
         position: relative;
         bottom: 410px;
         z-index: 10;
+        margin-bottom: -415px;
     }
     #center-menu{
         position: relative;
@@ -78,6 +86,10 @@ iframe{
         position: relative;
         bottom: 120px;
     }
+    #menus{
+        height: 2670px;;
+    }
+    
 }
 
 @media (max-width:400px){
