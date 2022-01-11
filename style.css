@@ -21,3 +21,10 @@ iframe{
     text-align: center;
     
 }
+
+@media (max-width:1500px){
+    #menus{
+        display:flex;
+        flex-wrap: wrap;
+    }
+}
