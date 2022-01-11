@@ -83,11 +83,11 @@ iframe{
 @media (max-width:400px){
     #menus{
         position:relative;
-        bottom: 1000px;
+        
     }
     #center-menu{
         position: relative;
-        bottom: 1000px;
+        
     }
     #right-menu{
         position: relative;
