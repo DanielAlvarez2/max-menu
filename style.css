@@ -21,9 +21,3 @@ iframe{
     text-align: center;
     display: block;
 }
-
-@media screen and (max-width:1500px){
-    #menu3{
-        clear:left;
-    }
-}
