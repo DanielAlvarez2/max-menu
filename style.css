@@ -81,21 +81,8 @@ iframe{
 }
 
 @media (max-width:400px){
-    #menus{
-        position:relative;
-        
-    }
-    #center-menu{
-        position: relative;
-       
-        
-    }
-    #right-menu{
-        position: relative;
-       
-    }
-    #pic3{
-        z-index: 10;
+    iframe{
+        margin-top:5px;
     }
     .hide{
         display: none;
