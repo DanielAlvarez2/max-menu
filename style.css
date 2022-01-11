@@ -24,18 +24,33 @@ iframe{
 #pic1{
     display: none;
     width:475px;
-    height:990px;
+    height:690px;
     
 }
 #center-menu, #right-menu{
     display: inline-block;
 }
 #pic4{
-    margin-top:15px;
+    position: relative;
+    bottom:50px;
+    z-index: 10;
 }
+
 @media (max-width:1447px){
     #pic1{
         display: inline-block;
+        position: relative;
+        bottom: 350px;
+        z-index: 11;
+    }
+    #right-menu{
+        position: relative;
+        bottom: 60px;
+    }
+    #pic4{
+        position: relative;
+        bottom: 320px;
+        z-index: 10;
     }
 }
 
@@ -43,4 +58,18 @@ iframe{
     #pic1{
         display: none;
     }
+    #pic4{
+        position: relative;
+        bottom: 410px;
+        z-index: 10;
+    }
+    #center-menu{
+        position: relative;
+        bottom: 60px;
+    }
+    #right-menu{
+        position: relative;
+        bottom: 120px;
+    }
+ 
 }
