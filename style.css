@@ -10,7 +10,7 @@ iframe{
 .hide{
     display: inline-block;
     background: red;
-    width: 2px;
+    width: 3px;
     height:990px;
     position:relative;
     left: 5px;
