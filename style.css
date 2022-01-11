@@ -16,16 +16,31 @@ iframe{
     left: 8px;
     z-index: 10;
 }
+
 #menus{
-    margin-top: 25px;
+    margin-top: 15px;
     text-align: center;
 }
 #pic1{
     display: none;
+    width:475px;
+    height:990px;
+    
 }
-
-@media (max-width:1500px){
+#center-menu, #right-menu{
+    display: inline-block;
+}
+#pic4{
+    margin-top:15px;
+}
+@media (max-width:1447px){
     #pic1{
         display: inline-block;
+    }
+}
+
+@media (max-width:968px){
+    #pic1{
+        display: none;
     }
 }
