@@ -43,7 +43,7 @@ iframe{
     z-index: 10;
 }
 
-@media (max-width:1447px){
+@media (max-width:1432px){
     #pic1{
         display: inline-block;
         position: relative;
