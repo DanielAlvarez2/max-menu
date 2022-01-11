@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+img{
+    max-width:100vw;
+}
+#wrapper{
+    max-width:1920px;
+    width:100vw;
+}
 iframe{
     position: relative;
     background: #f7f6f4;
