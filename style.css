@@ -81,8 +81,11 @@ iframe{
 }
 
 @media (max-width:400px){
-    #center-menu, #right-menu{
-        margin-top:15px;
+    #center-menu{
+        margin-top:17px;
+    }
+    #right-menu{
+        margin-top:16px;
     }
     .hide{
         display: none;
