@@ -19,10 +19,10 @@ iframe{
 #menus{
     margin-top: 25px;
     text-align: center;
-    
+    display: block;
 }
 
-@media (max-width:1500px){
+@media screen and (max-width:1500px){
     #menus{
         display:flex;
         flex-wrap: wrap;
