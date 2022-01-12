@@ -20,7 +20,7 @@ img{
 }
 iframe{
     position: relative;
-    background: #f7f6f4;
+    background-color: orange;
 }
 .hide{
     display: inline-block;
@@ -97,7 +97,10 @@ iframe{
     #menus{
         height: 2670px;;
     }
-    
+    #wrapper{
+        min-width:500px;
+       
+    }
 }
 
 @media (max-width:400px){
