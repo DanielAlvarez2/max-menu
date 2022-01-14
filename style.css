@@ -29,7 +29,7 @@ iframe{
     height:699px;
 }
 .hide{
-    width:1px;
+    width:3px;
     background: white;
     position: absolute;
 }
