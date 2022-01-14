@@ -49,7 +49,7 @@ iframe{
     #menu-pic{
         display:none;
     }
-    #page-container{
+    #menu-wrapper{
         max-width: 100vw;
     }
 }
