@@ -7,16 +7,13 @@ body{
     text-align: center;
 }
 #page-container{
-    max-width{
-        1920px;
-    }
+    max-width:1920px;
 }
 #menu-wrapper{
     display: inline-flex;
     flex-wrap: wrap;
     background-color: white;
     justify-content: center;
-
 }
 iframe{
     background-color: white;    
@@ -44,6 +41,13 @@ iframe{
 }
 #pic-wrapper{
     display: flex;
+}
+#menu-pic{
+    background-image: url(bg.png);
+    background-position: center;
+    background-size: cover;
+    width: 404px;
+    height:100%;
 }
 @media (max-width:824px){
     #menu-pic{
