@@ -16,15 +16,15 @@ body{
     justify-content: center;
 }
 iframe{
-    background-color: white;    
+    background-color: red;    
     width:405px;
     
 }
 #menu1, #menu2{
-    height:970px;
+    height:1000px;
 }
 #menu3{
-    height:730px;
+    height:750px;
 }
 .hide{
     width:3px;
